@@ -1,4 +1,4 @@
-# Labb3 Threads
+# Labb3 Threads and asyncronous
 
 ## About
 This is a school assignment for the course 'Avancerad .NET' to test threads and asyncronous solutions. 
